@@ -36,5 +36,17 @@
 
 ![](https://i.imgur.com/jCUQOcM.png)  
 圖 5-3-1 註冊活動圖
-
+![](https://i.imgur.com/i9fM6ZJ.png)
+![](https://i.imgur.com/erCLL31.png)
+![](https://i.imgur.com/0B2mWOJ.png)
+![](https://i.imgur.com/HWvGMxB.png)
+![](https://i.imgur.com/dqcyDPx.png)
+![](https://i.imgur.com/xQCvMY4.png)
+![](https://i.imgur.com/uztODm6.png)
+![](https://i.imgur.com/F83SLBX.png)
 ## 5-4 	分析類別圖(Analysis class diagram)
+
+![](https://i.imgur.com/qqqP9KM.png)
+
+
+
