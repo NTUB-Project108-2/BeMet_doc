@@ -29,7 +29,7 @@
 
 ## 5-2 使用個案圖(Use case diagram)
 
-![](https://i.imgur.com/R8QmiEC.png)
+![](https://i.imgur.com/jDAqpK9.png)
 圖 5-2-1 使用案例圖
 
 ## 5-3 	使用個案描述：使用活動圖(Activity diagram)
