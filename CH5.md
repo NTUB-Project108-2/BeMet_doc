@@ -36,17 +36,34 @@
 
 ![](https://i.imgur.com/jCUQOcM.png)  
 圖 5-3-1 註冊活動圖
-![](https://i.imgur.com/i9fM6ZJ.png)
-![](https://i.imgur.com/erCLL31.png)
-![](https://i.imgur.com/0B2mWOJ.png)
-![](https://i.imgur.com/HWvGMxB.png)
-![](https://i.imgur.com/dqcyDPx.png)
-![](https://i.imgur.com/xQCvMY4.png)
-![](https://i.imgur.com/uztODm6.png)
-![](https://i.imgur.com/F83SLBX.png)
+
+![](https://i.imgur.com/0B2mWOJ.png)   
+圖 5-3-2 登入活動圖
+
+![](https://i.imgur.com/i9fM6ZJ.png)   
+圖 5-3-3 修改個人檔案活動圖
+
+![](https://i.imgur.com/xQCvMY4.png)  
+圖 5-3-4 藍牙配對活動圖
+
+![](https://i.imgur.com/F83SLBX.png)  
+圖 5-3-5 群組管理活動圖
+
+![](https://i.imgur.com/uztODm6.png)  
+圖 5-3-6 客製化備註活動圖 
+
+![](https://i.imgur.com/HWvGMxB.png)  
+圖 5-3-7 訊息傳送活動圖 
+
+![](https://i.imgur.com/erCLL31.png)  
+圖 5-3-8 會議建立活動圖
+
+
+
 ## 5-4 	分析類別圖(Analysis class diagram)
 
-![](https://i.imgur.com/qqqP9KM.png)
+![](https://i.imgur.com/qqqP9KM.png)  
+圖 5-4-1 
 
 
 
