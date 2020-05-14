@@ -27,5 +27,14 @@
 | 易使用性 | 系統介面簡單清晰且容易理解  |
 | 安全性 | 攸關商業機密，密碼需要有一定的安全性限制，輸入錯誤密碼不能超過3次，同時間不能有重複登入情形|
 
-## 5-2 使用個案圖
+## 5-2 使用個案圖(Use case diagram)
 
+![](https://i.imgur.com/R8QmiEC.png)
+圖 5-2-1 使用案例圖
+
+## 5-3 	使用個案描述：使用活動圖(Activity diagram)
+
+![](https://i.imgur.com/jCUQOcM.png)  
+圖 5-3-1 註冊活動圖
+
+## 5-4 	分析類別圖(Analysis class diagram)
