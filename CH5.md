@@ -62,7 +62,7 @@
 
 ## 5-4 	分析類別圖(Analysis class diagram)
 
-![](https://i.imgur.com/qqqP9KM.png)  
+![](https://i.imgur.com/taJKwmg.png)
 圖 5-4-1 
 
 
