@@ -124,13 +124,13 @@
         <path d="M0 0 L355 0 L355 170 L0 170 L0 0 Z" />
       </clipPath>
       <clipPath clipPathUnits="userSpaceOnUse" id="clipPath40">
-        <path d="M0 0 L172 0 L172 214 L0 214 L0 0 Z" />
+        <path d="M0 0 L129 0 L129 162 L0 162 L0 0 Z" />
       </clipPath>
       <clipPath clipPathUnits="userSpaceOnUse" id="clipPath41">
-        <path d="M0 0 L267 0 L267 170 L0 170 L0 0 Z" />
+        <path d="M0 0 L226 0 L226 129 L0 129 L0 0 Z" />
       </clipPath>
       <clipPath clipPathUnits="userSpaceOnUse" id="clipPath42">
-        <path d="M0 0 L170 0 L170 239 L0 239 L0 0 Z" />
+        <path d="M0 0 L129 0 L129 202 L0 202 L0 0 Z" />
       </clipPath>
       <clipPath clipPathUnits="userSpaceOnUse" id="clipPath43">
         <path d="M0 0 L170 0 L170 245 L0 245 L0 0 Z" />
@@ -169,13 +169,13 @@
         <path d="M0 0 L199 0 L199 332 L0 332 L0 0 Z" />
       </clipPath>
       <clipPath clipPathUnits="userSpaceOnUse" id="clipPath55">
-        <path d="M0 0 L37 0 L37 17 L0 17 L0 0 Z" />
+        <path d="M0 0 L38 0 L38 18 L0 18 L0 0 Z" />
       </clipPath>
       <clipPath clipPathUnits="userSpaceOnUse" id="clipPath56">
-        <path d="M0 0 L59 0 L59 17 L0 17 L0 0 Z" />
+        <path d="M0 0 L59 0 L59 18 L0 18 L0 0 Z" />
       </clipPath>
       <clipPath clipPathUnits="userSpaceOnUse" id="clipPath57">
-        <path d="M0 0 L70 0 L70 17 L0 17 L0 0 Z" />
+        <path d="M0 0 L70 0 L70 18 L0 18 L0 0 Z" />
       </clipPath>
     </defs>
     <g style="fill:white; text-rendering:geometricPrecision; stroke:white;">
@@ -261,10 +261,10 @@
     <g style="text-rendering:geometricPrecision; font-size:11; font-family:sans-serif;" transform="translate(338,212)">
       <text x="7" y="25" style="clip-path:url(#clipPath13); stroke:none;" xml:space="preserve">回傳查詢結果</text>
     </g>
-    <g transform="translate(360,280)" style="font-size:11; fill:rgb(122,207,245); text-rendering:geometricPrecision; font-family:sans-serif; stroke:rgb(122,207,245);">
+    <g transform="translate(362,272)" style="font-size:11; fill:rgb(122,207,245); text-rendering:geometricPrecision; font-family:sans-serif; stroke:rgb(122,207,245);">
       <polygon style="clip-path:url(#clipPath19); stroke:none;" points=" 10 7 18 20 10 32 3 20" />
     </g>
-    <g transform="translate(360,280)" style="font-size:11; stroke-linecap:butt; text-rendering:geometricPrecision; font-family:sans-serif; stroke-linejoin:round; stroke-miterlimit:0;">
+    <g transform="translate(362,272)" style="font-size:11; stroke-linecap:butt; text-rendering:geometricPrecision; font-family:sans-serif; stroke-linejoin:round; stroke-miterlimit:0;">
       <polygon style="fill:none; clip-path:url(#clipPath19);" points=" 10 7 18 20 10 32 3 20" />
     </g>
     <g transform="translate(50,280)" style="font-size:11; fill:rgb(122,207,245); text-rendering:geometricPrecision; font-family:sans-serif; stroke:rgb(122,207,245);">
@@ -385,20 +385,20 @@
       <line x1="83" x2="95" y1="84" style="clip-path:url(#clipPath39); fill:none;" y2="90" />
       <line x1="83" x2="95" y1="84" style="clip-path:url(#clipPath39); fill:none;" y2="78" />
     </g>
-    <g transform="translate(287,167)" style="font-size:11; stroke-linecap:butt; text-rendering:geometricPrecision; font-family:sans-serif; stroke-linejoin:round;">
-      <line x1="85" x2="83" y1="83" style="clip-path:url(#clipPath40); fill:none;" y2="126" />
-      <line x1="83" x2="89" y1="126" style="clip-path:url(#clipPath40); fill:none;" y2="114" />
-      <line x1="83" x2="77" y1="126" style="clip-path:url(#clipPath40); fill:none;" y2="114" />
+    <g transform="translate(310,188)" style="font-size:11; stroke-linecap:butt; text-rendering:geometricPrecision; font-family:sans-serif; stroke-linejoin:round;">
+      <line x1="63" x2="63" y1="63" style="clip-path:url(#clipPath40); fill:none;" y2="95" />
+      <line x1="63" x2="69" y1="95" style="clip-path:url(#clipPath40); fill:none;" y2="83" />
+      <line x1="63" x2="57" y1="95" style="clip-path:url(#clipPath40); fill:none;" y2="83" />
     </g>
-    <g transform="translate(185,217)" style="font-size:11; stroke-linecap:butt; text-rendering:geometricPrecision; font-family:sans-serif; stroke-linejoin:round;">
-      <line x1="180" x2="83" y1="83" style="clip-path:url(#clipPath41); fill:none;" y2="83" />
-      <line x1="83" x2="95" y1="83" style="clip-path:url(#clipPath41); fill:none;" y2="89" />
-      <line x1="83" x2="95" y1="83" style="clip-path:url(#clipPath41); fill:none;" y2="77" />
+    <g transform="translate(206,230)" style="font-size:11; stroke-linecap:butt; text-rendering:geometricPrecision; font-family:sans-serif; stroke-linejoin:round;">
+      <line x1="160" x2="63" y1="63" style="clip-path:url(#clipPath41); fill:none;" y2="63" />
+      <line x1="63" x2="75" y1="63" style="clip-path:url(#clipPath41); fill:none;" y2="69" />
+      <line x1="63" x2="75" y1="63" style="clip-path:url(#clipPath41); fill:none;" y2="57" />
     </g>
-    <g transform="translate(287,222)" style="font-size:11; stroke-linecap:butt; text-rendering:geometricPrecision; font-family:sans-serif; stroke-linejoin:round;">
-      <line x1="83" x2="83" y1="83" style="clip-path:url(#clipPath42); fill:none;" y2="151" />
-      <line x1="83" x2="89" y1="151" style="clip-path:url(#clipPath42); fill:none;" y2="139" />
-      <line x1="83" x2="77" y1="151" style="clip-path:url(#clipPath42); fill:none;" y2="139" />
+    <g transform="translate(310,238)" style="font-size:11; stroke-linecap:butt; text-rendering:geometricPrecision; font-family:sans-serif; stroke-linejoin:round;">
+      <line x1="63" x2="63" y1="63" style="clip-path:url(#clipPath42); fill:none;" y2="135" />
+      <line x1="63" x2="69" y1="135" style="clip-path:url(#clipPath42); fill:none;" y2="123" />
+      <line x1="63" x2="57" y1="135" style="clip-path:url(#clipPath42); fill:none;" y2="123" />
     </g>
     <g transform="translate(68,235)" style="font-size:11; stroke-linecap:butt; text-rendering:geometricPrecision; font-family:sans-serif; stroke-linejoin:round;">
       <line x1="83" x2="83" y1="83" style="clip-path:url(#clipPath43); fill:none;" y2="158" />
@@ -474,18 +474,21 @@
     <g style="text-rendering:geometricPrecision; font-size:11; font-family:sans-serif;" transform="translate(303,612)">
       <text x="10" y="14" style="clip-path:url(#clipPath55); stroke:none;" xml:space="preserve">[否]</text>
     </g>
-    <g style="text-rendering:geometricPrecision; font-size:11; font-family:sans-serif;" transform="translate(368,303)">
+    <g style="text-rendering:geometricPrecision; font-size:11; font-family:sans-serif;" transform="translate(382,322)">
       <text x="10" y="14" style="clip-path:url(#clipPath56); stroke:none;" xml:space="preserve">[未配對]</text>
     </g>
-    <g style="text-rendering:geometricPrecision; font-size:11; font-family:sans-serif;" transform="translate(297,280)">
+    <g style="text-rendering:geometricPrecision; font-size:11; font-family:sans-serif;" transform="translate(298,272)">
       <text x="10" y="14" style="clip-path:url(#clipPath56); stroke:none;" xml:space="preserve">[已配對]</text>
     </g>
-    <g style="text-rendering:geometricPrecision; font-size:11; font-family:sans-serif;" transform="translate(565,123)">
+    <g style="text-rendering:geometricPrecision; font-size:11; font-family:sans-serif;" transform="translate(564,123)">
       <text x="10" y="14" style="clip-path:url(#clipPath57); stroke:none;" xml:space="preserve">[查詢失敗]</text>
     </g>
-    <g style="text-rendering:geometricPrecision; font-size:11; font-family:sans-serif;" transform="translate(655,147)">
+    <g style="text-rendering:geometricPrecision; font-size:11; font-family:sans-serif;" transform="translate(654,147)">
       <text x="10" y="14" style="clip-path:url(#clipPath57); stroke:none;" xml:space="preserve">[查詢成功]</text>
     </g>
-    
+    <g style="fill:rgb(120,120,120); text-rendering:geometricPrecision; font-size:10; stroke:rgb(120,120,120);">
+      <text xml:space="preserve" x="0" y="10" style="stroke:none;">Visual Paradigm for UML Personal Edition [not for commercial use] </text>
+      <text xml:space="preserve" x="0" y="10" style="stroke:none;">Visual Paradigm for UML Personal Edition [not for commercial use] </text>
+    </g>
   </g>
 </svg>

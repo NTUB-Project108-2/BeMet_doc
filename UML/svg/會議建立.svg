@@ -275,7 +275,7 @@
       <line x1="50" x2="56" y1="89" style="clip-path:url(#clipPath34); fill:none;" y2="77" />
       <line x1="50" x2="44" y1="89" style="clip-path:url(#clipPath34); fill:none;" y2="77" />
     </g>
-    <g style="text-rendering:geometricPrecision; font-size:11; font-family:sans-serif;" transform="translate(282,142)">
+    <g style="text-rendering:geometricPrecision; font-size:11; font-family:sans-serif;" transform="translate(282,162)">
       <text x="10" y="14" style="clip-path:url(#clipPath35); stroke:none;" xml:space="preserve">[取消]</text>
     </g>
     <g style="text-rendering:geometricPrecision; font-size:11; font-family:sans-serif;" transform="translate(57,279)">
@@ -287,6 +287,9 @@
     <g style="text-rendering:geometricPrecision; font-size:11; font-family:sans-serif;" transform="translate(345,164)">
       <text x="10" y="14" style="clip-path:url(#clipPath35); stroke:none;" xml:space="preserve">[確定]</text>
     </g>
-    
+    <g style="fill:rgb(120,120,120); text-rendering:geometricPrecision; font-size:10; stroke:rgb(120,120,120);">
+      <text xml:space="preserve" x="0" y="10" style="stroke:none;">Visual Paradigm for UML Personal Edition [not for commercial use] </text>
+      <text xml:space="preserve" x="0" y="10" style="stroke:none;">Visual Paradigm for UML Personal Edition [not for commercial use] </text>
+    </g>
   </g>
 </svg>
