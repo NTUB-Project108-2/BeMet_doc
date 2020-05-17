@@ -1,11 +1,10 @@
 # 系統簡介
 
 ------
- <b>組    別：第109402組
- 專題名稱： BeMet
- 指導教師： 黃其彥
- 專題學生： 高佳彣、李梅湘、林姿廷、陳立洋、閻自有
+
+ #### <b>組    別：第109402組<br>專題名稱： BeMet<br>指導教師： 黃其彥<br>專題學生： 高佳彣、李梅湘、林姿廷、陳立洋、閻自有
 </b>
+
 ------
 ## 一、	前言
 在資訊時代下，因行動裝置普及，設計出「BeMet」App，讓國內中小型企業的員工能夠透過「BeMet」App來管理在商業上的夥伴，透過「BeMet」達到快速區別供應商、合作廠商及顧客，並提升與他們的親密度。
@@ -21,7 +20,26 @@
 ## 四、	系統特色
 使用者使用「BeMet」可管理其商業夥伴，間接使其所在公司增加效益。
 ## 五、	系統開發工具
-內文
+| 項目 | 使用工具 |
+|------|---------|
+|編輯器	|IntelliJ IDEA, Android Studio|
+|資料庫管理工具|	SQL Server|
+|版本控制工具|	Git|
+|文件製作|	Microsoft Word 2019|
+|簡報製作|	Microsoft PowerPoint 2019|
+|UML工具|	Visual Paradigm for UML |
+|雛形設計|	Adobe XD|
+|製圖工具|	Adobe Photoshop, Adobe Illustrator|
+|溝通工具|	LINE|
+|版本控管|	GitHub|
+|剪輯軟體|	Adobe Premiere Pro|
+|聲音後製工具|	Adobe audio|
+
 ## 六、	系統使用環境
-內文
+| 項目 | 需求 |
+| ---- | ----|
+| 手機端 | Android 5 |
+| 伺服器端 | Windows Server 2012 R2 |
+| 支援語言 | 繁體中文 |
+
 ## 七、	結論及未來發展
