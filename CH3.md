@@ -9,18 +9,22 @@
 
 | 標題 | 内容 | 
 | -------- | -------- | 
-|  程式語言 | Java     | 
+|  程式語言 | Java 11    | 
 |  整合式開發環境(IDE)| IntelliJ IDEA     |
-|  開發環境| Window Sever2012 R2    | 
-|  框架| gradle     | 
+|  開發環境| Window 10   | 
+|  作業系統 | Window Sever2012 R2    | 
+|  框架| Spring Boot 2.2.5     | 
+| 套件管理 | Gradle |
 | 資料庫工具 | SQL Server     |
+| 伺服器 |  Apache Tomcat 9.0.35 Server |
 
 ### 網站後端規格
 | 標題 | 内容 | 
 | -------- | -------- | 
 | 整合式開發環境(IDE)| IntelliJ IDEA     |
-|  框架| gradle     | 
-| 開發語言| Java     |
+| 框架| Spring Boot 2.2.5     | 
+| 套件管理 | Gradle |
+| 開發語言| Java 11    |
 
 ### 系統軟硬體需求
 | 標題 | 内容 | 
