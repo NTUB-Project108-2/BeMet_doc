@@ -34,31 +34,32 @@
 
 ## 5-3 	使用個案描述：使用活動圖(Activity diagram)
 
-![](https://i.imgur.com/jCUQOcM.png)  
+![](https://i.imgur.com/cvvvoku.png) 
 圖 5-3-1 註冊活動圖
 
-![](https://i.imgur.com/0B2mWOJ.png)   
+![](https://i.imgur.com/rr2cS0Y.png)  
 圖 5-3-2 登入活動圖
 
-![](https://i.imgur.com/i9fM6ZJ.png)   
-圖 5-3-3 修改個人檔案活動圖
+![](https://i.imgur.com/O0WPQ0Y.png)  
+圖 5-3-3 修改個人資訊活動圖
 
-![](https://i.imgur.com/xQCvMY4.png)  
+![](https://i.imgur.com/J3m6MZU.png) 
 圖 5-3-4 藍牙配對活動圖
 
-![](https://i.imgur.com/F83SLBX.png)  
-圖 5-3-5 群組管理活動圖
+![](https://i.imgur.com/xssW31T.png)
+圖 5-3-5 公司群組管理活動圖
 
-![](https://i.imgur.com/uztODm6.png)  
+![](https://i.imgur.com/9lFF6Y8.png)
 圖 5-3-6 客製化備註活動圖 
 
-![](https://i.imgur.com/HWvGMxB.png)  
+![](https://i.imgur.com/8VUDlWW.png) 
 圖 5-3-7 訊息傳送活動圖 
 
-![](https://i.imgur.com/erCLL31.png)  
+ ![](https://i.imgur.com/nqlga9W.png)
 圖 5-3-8 會議建立活動圖
 
-
+![](https://i.imgur.com/U1Bj4qn.png)
+圖 5-3-9 附近好友提醒活動圖
 
 ## 5-4 	分析類別圖(Analysis class diagram)
 
