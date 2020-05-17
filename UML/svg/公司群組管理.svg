@@ -380,9 +380,6 @@
     <g style="text-rendering:geometricPrecision; font-size:11; font-family:sans-serif;" transform="translate(82,122)">
       <text x="10" y="14" style="clip-path:url(#clipPath41); stroke:none;" xml:space="preserve">[群組不存在]</text>
     </g>
-    <g style="fill:rgb(120,120,120); text-rendering:geometricPrecision; font-size:10; stroke:rgb(120,120,120);">
-      <text xml:space="preserve" x="0" y="10" style="stroke:none;">Visual Paradigm for UML Personal Edition [not for commercial use] </text>
-      <text xml:space="preserve" x="0" y="10" style="stroke:none;">Visual Paradigm for UML Personal Edition [not for commercial use] </text>
-    </g>
+   
   </g>
 </svg>
