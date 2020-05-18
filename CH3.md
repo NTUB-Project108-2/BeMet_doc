@@ -2,8 +2,7 @@
 
 ## 3-1 系統架構
 
-![](https://i.imgur.com/q25GI2g.png)
-
+![](https://i.imgur.com/WZ5fBeK.png)
 ## 3-2 系統軟、硬體需求與技術平臺
 ### 伺服器端規格
 
