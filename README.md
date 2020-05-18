@@ -20,25 +20,25 @@
 ## 四、	系統特色
 使用者使用「BeMet」可管理其商業夥伴，間接使其所在公司增加效益。
 ## 五、	系統開發工具
-| 項目 | 使用工具 |
-|------|---------|
-|編輯器	|IntelliJ IDEA, Android Studio|
-|資料庫管理工具|	SQL Server|
-|版本控制工具|	Git|
-|文件製作|	Microsoft Word 2019|
-|簡報製作|	Microsoft PowerPoint 2019|
-|UML工具|	Visual Paradigm for UML |
-|雛形設計|	Adobe XD|
-|製圖工具|	Adobe Photoshop, Adobe Illustrator|
-|溝通工具|	LINE|
-|版本控管|	GitHub|
-|剪輯軟體|	Adobe Premiere Pro|
-|聲音後製工具|	Adobe audio|
+| 項目 | 圖示 | 使用工具 |
+|------|------|---------|
+|編輯器	| <img src="./icon/IntelliJ_IDEA.jpg  " width = "50" /> <img src="./icon/Android_Studio.jpg " width = "50" />|IntelliJ IDEA, Android Studio|
+|資料庫管理工具| <img src="./icon/SQLSERVER.png " width = "50" />|	SQL Server|
+|版本控制工具| <img src="./icon/Git.png " width = "50" />|	Git|
+|文件製作| <img src="./icon/Microsoft_Word_2019.jpg " width = "50" />|	Microsoft Word 2019|
+|簡報製作| <img src="./icon/Microsoft_PowerPoint_2019.jpg " width = "50" />|	Microsoft PowerPoint 2019|
+|UML工具| <img src="./icon/UML.jpg " width = "100" />|	Visual Paradigm for UML |
+|雛形設計| <img src="./icon/Adobe_XD.png " width = "50" />|	Adobe XD|
+|製圖工具| <img src="./icon/Adobe_Photoshop.png " width = "50" /> <img src="./icon/Adobe_Illustrator.png " width = "50" />|	Adobe Photoshop, Adobe Illustrator|
+|溝通工具| <img src="./icon/Line.png " width = "50" />|	LINE|
+|版本控管| <img src="./icon/GitHub.png " width = "50" />|	GitHub|
+|剪輯軟體|  <img src="./icon/Adobe_Premiere_Pro.jpg " width = "50" /> |	Adobe Premiere Pro|
+|聲音後製工具| <img src="./icon/Adobe_audio.png " width = "50" />|	Adobe audio|
 
 ## 六、	系統使用環境
 | 項目 | 需求 |
 | ---- | ----|
-| 手機端 | Android 5 |
+| 手機端 | Android 7 以上 |
 | 伺服器端 | Windows Server 2012 R2 |
 | 支援語言 | 繁體中文 |
 
