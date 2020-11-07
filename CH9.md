@@ -1,8 +1,8 @@
 # 第九章 程式
 
-## 9-1 元件清單及其規格描述
-一、 元件清單
-
+## 9-1 軟體架構與程式清單
+一、 
+二、 程式清單
 (一)、 App端
 
 表 9-1-1、App Project 元件清單
@@ -28,8 +28,7 @@
 |2-1-9|GroupsBean.java|設定Groups屬性，提供獲取屬性和設定屬性的方法|
 |2-1-10|ProblemReportBean.java|設定ProblemReport屬性，提供獲取屬性和設定屬性的方法|
 |2-1-11|TimelineBean.java|設定Timeline屬性，提供獲取屬性和設定屬性的方法|
-|2-1-12|UserCustomizationBean.java|設定UserCustomization屬性，提供獲取屬性和設定屬性的方法|
-|2-1-13|UserInformationBean.java|設定UserInformation屬性，提供獲取屬性和設定屬性的方法|
+|2-1-12|UserInformationBean.java|設定UserInformation屬性，提供獲取屬性和設定屬性的方法|
 |資料夾名稱:|\config||
 |編號|檔案名稱|功能|
 |2-2-1|FCMInitializer.java|初始化FireBase Cloud Messaging設定|
@@ -48,9 +47,8 @@
 |2-3-8|GroupsController.java|控制處理前端/App請求|
 |2-3-9|ProblemReportController.java|控制處理前端/App請求|
 |2-3-10|TimelineController.java|控制處理前端/App請求|
-|2-3-11|UserCustomizationController.java|控制處理前端/App請求|
-|2-3-12|UserInformationController.java|控制處理前端/App請求|
-|2-3-13|RouteController.java|控制處理前端/App請求|
+|2-3-11|UserInformationController.java|控制處理前端/App請求|
+|2-3-12|RouteController.java|控制處理前端/App請求|
 |資料夾名稱:|\converter||
 |編號|檔案名稱|功能|
 |2-4-1|LocalDateTimeConverter.java|日期轉換設定檔|
@@ -67,9 +65,8 @@
 |2-5-9|GroupsDAO.java|Groups資料表操作介面|
 |2-5-10|ProblemReportDAO.java|ProblemReport資料表操作介面|
 |2-5-11|TimelineDAO.java|Timeline資料表操作介面|
-|2-5-12|UserCustomizationDAO.java|UserCustomization資料表操作介面|
-|2-5-13|UserInformationDAO.java|UserInformation資料表操作介面|
-|2-5-14|BaseDAO.java|資料庫基本操作功能介面|
+|2-5-12|UserInformationDAO.java|UserInformation資料表操作介面|
+|2-5-13|BaseDAO.java|資料庫基本操作功能介面|
 |資料夾名稱:|\dao\impl||
 |編號|檔案名稱|功能|
 |2-6-1|ActivityDateDAOImpl.java|ActivityDate資料表操作實作|
@@ -83,9 +80,8 @@
 |2-6-9|GroupsDAOImpl.java|Groups資料表操作實作|
 |2-6-10|ProblemReportDAOImpl.java|ProblemReport資料表操作實作|
 |2-6-11|TimelineDAOImpl.java|Timeline資料表操作實作|
-|2-6-12|UserCustomizationDAOImpl.java|UserCustomization資料表操作實作|
-|2-6-13|UserInformationDAOImpl.java|UserInformation資料表操作實作|
-|2-6-14|BaseDAOImplImpl.java|資料庫基本操作功能實作|
+|2-6-12|UserInformationDAOImpl.java|UserInformation資料表操作實作|
+|2-6-13|BaseDAOImplImpl.java|資料庫基本操作功能實作|
 |資料夾名稱:|\filter||
 |編號|檔案名稱|功能|
 |2-7-1|CustomAuthenticationFailureHandler.java|登入失敗回傳資料設定|
@@ -109,8 +105,7 @@
 |2-8-9|GroupsService.java|Groups相關業務邏輯介面|
 |2-8-10|ProblemReportService.java|ProblemReport相關業務邏輯介面|
 |2-8-11|TimelineService.java|Timeline相關業務邏輯介面|
-|2-8-12|UserCustomizationService.java|UserCustomization相關業務邏輯介面|
-|2-8-13|UserInformationService.java|UserInformation相關業務邏輯介面|
+|2-8-12|UserInformationService.java|UserInformation相關業務邏輯介面|
 |資料夾名稱:|\service\impl||
 |編號|檔案名稱|功能|
 |2-9-1|ActivityDateServiceImpl.java|ActivityDate相關業務邏輯實作|
@@ -124,8 +119,7 @@
 |2-9-9|GroupsServiceImpl.java|Groups相關業務邏輯實作|
 |2-9-10|ProblemReportServiceImpl.java|ProblemReport相關業務邏輯實作|
 |2-9-11|TimelineServiceImpl.java|Timeline相關業務邏輯實作|
-|2-9-12|UserCustomizationServiceImpl.java|UserCustomization相關業務邏輯實作|
-|2-9-13|UserInformationServiceImpl.java|UserInformation相關業務邏輯實作|
+|2-9-12|UserInformationServiceImpl.java|UserInformation相關業務邏輯實作|
 |資料夾名稱:|\utils||
 |編號|檔案名稱|功能|
 |2-10-1|BCryUtility.java|密碼加密、密碼比對|
@@ -144,25 +138,19 @@
 |2-11-9|Groups.java|Groups資料表對映|
 |2-11-10|ProblemReport.java|ProblemReport資料表對映|
 |2-11-11|Timeline.java|Timeline資料表對映|
-|2-11-12|UserCustomization.java|UserCustomization資料表對映|
-|2-11-13|UserInformation.java|UserInformation資料表對映|
-|2-11-14|CodeTablePK.java|CodeTable primary key資料表對映|
-|2-11-15|UserRole.java|UserRole資料表對映|
+|2-11-12|UserInformation.java|UserInformation資料表對映|
+|2-11-13|CodeTablePK.java|CodeTable primary key資料表對映|
+|2-11-14|UserRole.java|UserRole資料表對映|
 (三)、 網頁端
 |資料夾名稱:|\templates||
 |---|---|---|
 |3-1-1|login.html|登入頁面|
 |3-1-2|logout.html|登出頁面|
+|3-1-3|error403.html|http status 403 頁面|
+|3-1-4|error404.html|http status 404 頁面|
 |資料夾名稱:|\templates\problem_report||
 |---|---|---|
-|3-2-1|add.html|問題回報頁面|
-|3-3-2|index.html|問題回報管理者頁面|
-|3-3-3|update.html|問題處理狀態修改頁面|
-二、規格描述
-(一)、 App端
-(二)、 伺服器端
-|編號|2-1|程式名稱||
-|---|---|---|---|
-|目的|
-||
-(二)、 網頁端
+|3-2-1|userReport.html|問題回報頁面|
+|3-3-2|userSuccess.html|問題回報成功頁面|
+|3-3-3|search.html|問題回報管理者頁面|
+9-2 程式規格描述
