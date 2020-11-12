@@ -1,7 +1,9 @@
 # 第九章 程式
 
 ## 9-1 軟體架構與程式清單
-一、 
+一、 軟體架構
+![](https://i.imgur.com/r5KDc56.jpg)
+![](https://i.imgur.com/5lZQ9VA.jpg)
 二、 程式清單
 (一)、 App端
 
