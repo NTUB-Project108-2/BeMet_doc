@@ -1,15 +1,88 @@
 # 第九章 程式
 
 ## 9-1 軟體架構與程式清單
-一、 
+一、 軟體架構
+![](https://i.imgur.com/r5KDc56.jpg)
+![](https://i.imgur.com/5lZQ9VA.jpg)
 二、 程式清單
 (一)、 App端
 
 表 9-1-1、App Project 元件清單
     
-|資料夾名稱|:||
+|資料夾名稱:\adapter|||
 |---|---|---|
 |編號|檔案名稱|功能|
+|1-1-1|EventAddParticipantRecyclerViewAdapter.java|設定事件參與者recycler view 畫面|
+|1-1-2|EventTagRecyclerViewAdapter.java|設定事件標籤recycler view 畫面|
+|1-1-3|FriendGroupRecyclerViewAdapter.java|設定群組recycler view 畫面|
+|1-1-4|FriendMemoAddColumnRecyclerViewAdapter.java|設定客製化欄位recycler view 畫面|
+|1-1-5|FriendProfileListViewAdapter.java|設定朋友資訊recycler view 畫面|
+|1-1-6|MatchedDeviceRecyclerViewAdapter.java|設定附近配對裝置recycler view 畫面|
+|1-1-7|SelfInviteRecyclerViewAdapter.java|設定事件邀請recycler view 畫面|
+|資料夾名稱:\background||
+|編號|檔案名稱|功能|
+|1-2-1|FriendInviteService.java|好友邀請通知發送|
+|1-2-2|InviteMessageService.java|好友邀請訊息接收|
+|1-2-3|NotificationService.java|附近好友通知發送|
+|資料夾名稱:\bean||
+|1-3-1|ActivityInviteBean.java|設定ActivityInvite屬性，提供獲取屬性和設定屬性的方法|
+|1-3-2|ResponseBody.java|設定ResponseBody屬性，提供獲取屬性和設定屬性的方法|
+|1-3-3|TimelineBean.java|設定Timeline屬性，提供獲取屬性和設定屬性的方法|
+|資料夾名稱:\dao||
+|1-4-1|UserInformationDAO.java|UserInformation資料表操作|
+|1-4-2|ActivityDateDAO.java|ActivityDate 資料表操作|
+|資料夾名稱:\device||
+|1-5-1|MatchListener.java|附近裝置狀態操作介面|
+|資料夾名稱:\device\actionhalder||
+|1-6-1|BackgroundFoundActionHandler.java|背景執行找到裝置處理動作|
+|1-6-2|ForegroundFoundActionHandler.java|前景執行找到裝置處理動作|
+|資料夾名稱:\device\actionhalder\supplier||
+|1-7-1|BackgroundActionHandlerSupplier.java|註冊背景搜尋動作|
+|1-7-2|ForegroundActionHandlerSupplier.java|註冊前景搜尋動作|
+|資料夾名稱:\device\beacon||
+|1-8-1|BeaconSharedPreferences.java|Beacon 屬性設定|
+|1-8-2|BeaconDiscoverServer.java|Beacon廣播設定|
+|1-8-3|BeaconHelper.java|Beacon 搜尋設定|
+|資料夾名稱:\device\beacon\finder||
+|1-9-1|BeaconFinder.java|Beacon 捕捉裝置設定|
+|資料夾名稱:\device\enumerate||
+|1-10-1|FindAction.java|列舉裝置搜尋狀態|
+|1-10-2|FindState.java|列舉藍芽狀態|
+|資料夾名稱:\function||
+|1-11-1|Consumer.java|單參數的函式傳遞介面|
+|1-11-2|BiConsumer.java|雙參數的函式傳遞介面|
+|1-11-3|Supplier.java|無參數的函式傳遞介面|
+|資料夾名稱:\helper||
+|1-12-1|AsyncTaskHelper.java|網路請求操作|
+|1-12-2|AvatarHelper.java|頭像處理|
+|1-13-3|DBHelper.java|資料庫建立|
+|1-14-4|DeviceHelper.java|裝置識別碼取得|
+|1-14-5|NotificationHelper.java|通知設定|
+|1-14-6|PermissionHelper.java|權限設定|
+|資料夾名稱:\network||
+|1-15-1|AddCookiesInterceptor.java|設置請求cookies|
+|1-15-2|ApiConfig.java|設定伺服器URL|
+|1-15-3|ReceivedCookiesInterceptor.java|接收儲存伺服器cookies|
+|1-15-4|RetrofitConfig.java|設定網路請求|
+|資料夾名稱:\service||
+|1-16-1|UserInformationService.java|userInformation網路請求介面|
+|1-16-2|ActivityInviteService.java|activityInvite網路請求介面|
+|資料夾名稱:\service\impl||
+|1-17-1|UserInformationServiceImpl.java|userInformation網路請求實作|
+|1-17-2|ActivityInviteServiceImpl.java|activityInvite網路請求實作|
+|資料夾名稱:\activity||
+|1-18-1|AddIntroductionActivity.java|註冊畫面操作|
+|1-18-2|LoginActivity.java|登入畫面操作|
+|1-18-3|SearchActivity.java|附近裝置搜尋畫面操作|
+|1-18-4|FriendSearchActivity.java|好友列表畫面操作|
+|1-18-5|FriendsTimelineActivity.java|好友時間軸畫面操作|
+|1-18-6|SelfInviteActivity.java|個人邀請畫面操作|
+|資料夾名稱:\fragment||
+|1-19-1|EditMemoFragment.java|顯示編輯備註畫面|
+|1-19-2|EditProfileFragment.java|顯示編輯客製化欄位畫面|
+|1-19-3|FriendSearchAllFragment.java|顯示搜尋好友列表畫面|
+|1-19-4|FriendSearchGroupFragment.java|顯示搜尋群組畫面|
+
     
 (二)、 伺服器端
 
@@ -149,7 +222,6 @@
 |3-1-3|error403.html|http status 403 頁面|
 |3-1-4|error404.html|http status 404 頁面|
 |資料夾名稱:|\templates\problem_report||
-|---|---|---|
 |3-2-1|userReport.html|問題回報頁面|
 |3-3-2|userSuccess.html|問題回報成功頁面|
 |3-3-3|search.html|問題回報管理者頁面|
