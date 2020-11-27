@@ -1,12 +1,14 @@
 # 第三章 系統規格
 
 ## 3-1 系統架構
-<<<<<<< HEAD
-=======
-「BeMet」的系統功能架構圖如下，主要提供使用者管理商務上的夥伴，除了基礎聊天功能，也提供群組分類，還有透過會議建立功能留下會議時間點，客製化備註增加好友資料的彈性等功能，讓使用者在管理商務上的夥伴能更輕鬆，更有效率。  
-![](https://i.imgur.com/WZ5fBeK.png)  
+### 系統功能架構圖
+「BeMet」的系統功能架構圖如下，主要提供使用者管理好友，提供群組分類，透過活動建立功能留下活動時間點，客製化備註增加好友資料的彈性等功能，讓使用者在管理社群上的夥伴能更輕鬆，更有效率。  
+![](https://i.imgur.com/Ze615Dq.png)
 
->>>>>>> ebfdecb9b0467367dce177ee1fc7fe401225fc56
+### 系統架構圖
+「BeMet」的系統架構如下，使用者使用手機的「BeMet」App向伺服器請求服務，接著伺服器從資料庫取得資料，回應使用者的服務。
+![](https://i.imgur.com/6sVYG5l.png)
+
 ## 3-2 系統軟、硬體需求與技術平臺
 ### 伺服器端規格
 
@@ -29,6 +31,15 @@
 | 套件管理 | Gradle |
 | 開發語言| Java 11    |
 
+### 手機端規格
+| 標題 | 内容 | 
+| -------- | -------- | 
+| 作業系統| Android 8     |
+| 開發環境| Window10     | 
+| 整合式開發環境(IDE)| Android Studio 4.1 |
+| 程式語言 | Java |
+| 套件管理| Gradle  |
+
 ### 系統軟硬體需求
 | 標題 | 内容 | 
 | -------- | -------- |
@@ -41,31 +52,32 @@
 | 標題 | 内容 | 
 | -------- | -------- |
 |整合式開發環境  | IntelliJ IDEA、 android studio | 
-|資料庫管理工具| SqlServer     | 
+|資料庫管理工具| SQLServer     | 
 |版本控制工具| Git     |
+
 ### 系統撰寫工具
 | 標題 | 内容 | 
 | -------- | -------- | 
-|文件製作  | Word.vscode     | 
-|簡報製作| Power Point     | 
+|文件製作  | Microsoft Word 2019、VSCode | 
+|簡報製作| Microsoft PowerPoint 2019     | 
 |UML 工具| Visual Paradigm for UML     |
 
 ### 專案管理工具
 | 標題 |内容| 
 | -------- | -------- | 
-|溝通工具 | Line . Google Meet   |
+|溝通工具 | Notion、Line、Google Meet |
+
 ### 美工製作工具
 |標題 | 内容 | 
 | -------- | -------- | 
 |使用者經驗工具 | Adobe XD | 
-|圖形製作工具 | Adobe illustrator.photoshop | 
+|圖形製作工具 | Adobe illustrator、photoshop | 
 
 ### 影片製作工具
 
 | 標題 | 内容 | 
 | -------- | -------- | 
 |影片剪輯工具 | Adobe premiere | 
-|聲音後製工具 | Adobe audio |
 
 
 
